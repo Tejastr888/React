@@ -10,12 +10,12 @@ If you want to run Resumave locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-    git clone https://github.com/devxprite/resumave.git
+    git clone [https://github.com/Tejastr888/chat-app.git]
    ```
 
 2. Navigate to the project directory:
     ```bash
-    cd resumave
+    cd chat-app
     ```
 3. Install dependencies:
     ```bash
